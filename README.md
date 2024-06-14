@@ -1,5 +1,4 @@
- <h1>Olá 👋<h1/>
-
+ 
 Eu sou o Paulo Cesar, sou um progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
